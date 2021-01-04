@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Listas-de-Objetos\bin\Debug\netcoreapp3.1\Listas-de-Objetos.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Listas-de-Objetos\bin\Debug\netcoreapp3.1\Listas-de-Objetos.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Listas-de-Objetos\bin\Debug\netcoreapp3.1\Listas-de-Objetos.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Listas-de-Objetos\bin\Debug\netcoreapp3.1\Listas-de-Objetos.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Listas-de-Objetos\bin\Debug\netcoreapp3.1\Listas-de-Objetos.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Listas-de-Objetos\bin\Debug\netcoreapp3.1\Listas-de-Objetos.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Listas-de-Objetos\obj\Debug\netcoreapp3.1\Listas-de-Objetos.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Listas-de-Objetos\obj\Debug\netcoreapp3.1\Listas-de-Objetos.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Listas-de-Objetos\obj\Debug\netcoreapp3.1\Listas-de-Objetos.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Listas-de-Objetos\obj\Debug\netcoreapp3.1\Listas-de-Objetos.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Listas-de-Objetos\obj\Debug\netcoreapp3.1\Listas-de-Objetos.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Listas-de-Objetos\obj\Debug\netcoreapp3.1\Listas-de-Objetos.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\Listas-de-Objetos\obj\Debug\netcoreapp3.1\Listas-de-Objetos.genruntimeconfig.cache
